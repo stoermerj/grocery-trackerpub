@@ -1,0 +1,26 @@
+""" 
+DONE: FIX @ in LIDL2 and LIDL3 and LIDL4 and LIDL6 and LIDL 7
+DONE: build create_df function
+DONE: add discount from LIDL8_discount
+DONE: Comment and challenge rewe
+DONE: Comment and challenge dm
+DONE: Comment and challenge lidl
+DONE: add check with total Summe
+DONE: Fix date counter for LIDL - there are two or more 
+DONE: Add name of grocery store
+DONE: Add name of weekday
+DONE: PROBLEM WITH LIDL extract - review path
+TODO: Add Edeka as soon as their app works
+DONE: crawl and combine data in main in one dataframe
+DONE: Categorize the data into categories where possible
+DONE: Visualize the data with interactive graph data
+
+Nice to haves:
+TODO: Add name of purchaser
+DONE: differentiate between cash and visa
+TODO: Add historical data in googledrive
+TODO: Retrive bons directly
+TODO: Improve plots
+TODO: Create Plot Dashboard
+
+"""
